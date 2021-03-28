@@ -1,7 +1,0 @@
-Array	KEYWORD1
-size	KEYWORD2
-getMin	KEYWORD2
-getMinIndex	KEYWORD2
-getMax	KEYWORD2
-getMaxIndex	KEYWORD2
-getAverage	KEYWORD2
