@@ -1,3 +1,13 @@
+ /*
+  *MakeIT 2nd tutorial
+  *Title : Weather forecasting 
+  *Author : Baptiste ZLOCH (MakeIT owner)
+  *Description : Deploying a model that tries to forecast the sky overcast done with tensorflow converted to c++ .h file. Done with EloquentTinyML library, really easy to use. 
+  *Date : 28/03/2021
+  *Tested with : NANO 33 BLE
+  */
+
+
 #include <Arduino.h>
 #include "model.h"
 #include <EloquentTinyML.h>
